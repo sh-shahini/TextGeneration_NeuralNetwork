@@ -1,1 +1,1 @@
-# TextGeneration_NeuralNetwrok
+# TextGeneration_NeuralNetwork
